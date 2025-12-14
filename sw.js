@@ -1,4 +1,4 @@
-const CACHE_NAME = "gojo-checker-v1B";
+const CACHE_NAME = "gojo-checker-v2";
 const FILES = [
   "./",
   "./index.html",
